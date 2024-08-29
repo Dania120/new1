@@ -1,0 +1,1 @@
+game.setLife(5)
